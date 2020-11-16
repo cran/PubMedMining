@@ -1,0 +1,12 @@
+f0c87046dfadb96d0574643d4e6afc1e *DESCRIPTION
+d656f35b96cfd7b4790f5f53edd2e4e1 *LICENSE
+530931c36360e8b52fd3f9c06f9f07f2 *NAMESPACE
+7f3c30572876ea2883316a04c4157155 *NEWS.md
+ba1f75d701affd41dc020dea3a980a80 *R/text-mining.R
+08194042efa4c954ced4995eb3025ce1 *README.md
+592d71ce80f4dad431c87343a21c5b66 *build/vignette.rds
+09afd82b7dbf58cc42636791fb55c372 *inst/doc/PubMedMining-vignette.R
+4c2a4dd79ec82eb1705e2b71eabe1121 *inst/doc/PubMedMining-vignette.Rmd
+2332ca97cd2421413622ca8c05f9a097 *inst/doc/PubMedMining-vignette.html
+dadb9ea7eb5738402fde05dbe2e9e8c6 *man/pubmed_textmining.Rd
+4c2a4dd79ec82eb1705e2b71eabe1121 *vignettes/PubMedMining-vignette.Rmd
